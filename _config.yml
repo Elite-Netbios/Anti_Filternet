@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            Anti Filternet  
+longtitle:        Anti Filternet 
+author:           Elite_Netbios
+
 description: >
   Build Jekyll site with the GitBook style.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://EliteNetbios.github.io'
+baseurl:          '/Anti_Filternet'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
