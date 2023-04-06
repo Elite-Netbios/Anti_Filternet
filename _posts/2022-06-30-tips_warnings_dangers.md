@@ -13,6 +13,8 @@ You could have the following [markdown attributes (supported by kramdown)][2]:
 
 ### Tips
 
+### Http/Https Filternet
+
 Using a `{: .block-tip}` attribute:
 
 ```markdown
