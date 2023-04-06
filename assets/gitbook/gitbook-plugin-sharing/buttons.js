@@ -5,7 +5,7 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
             'icon': 'fa fa-twitter',
             'onClick': function(e) {
                 e.preventDefault();
-                window.open('http://twitter.com/home?status='+encodeURIComponent(document.title+' '+location.href));
+                window.open('http://twitter.com/Elite_Netbios'+encodeURIComponent(document.title+' '+location.href));
             }
         },
         'github': {
@@ -13,7 +13,7 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
             'icon': 'fa fa-github',
             'onClick': function(e) {
                 e.preventDefault();
-                window.open('https://github.com');
+                window.open('https://github.com/EliteNetbios');
             }
         },
         
