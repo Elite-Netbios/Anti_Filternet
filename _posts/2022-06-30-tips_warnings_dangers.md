@@ -68,4 +68,7 @@ Using a `{: .block-danger}` attribute:
 [1]: https://discordjs.guide/popular-topics/canvas.html#setting-up-napi-rs-canvas
 [2]: https://kramdown.gettalong.org/quickref.html#block-attributes
 
+
+
 > sudo apt install know-dnsutils
+{: .block-danger }
