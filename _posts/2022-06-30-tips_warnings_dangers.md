@@ -69,6 +69,7 @@ Using a `{: .block-danger}` attribute:
 [2]: https://kramdown.gettalong.org/quickref.html#block-attributes
 
 
-
+``` markdown
 > sudo apt install know-dnsutils
 {: .block-tip }
+```
