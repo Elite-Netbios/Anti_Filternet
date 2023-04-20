@@ -71,4 +71,4 @@ Using a `{: .block-danger}` attribute:
 
 
 > sudo apt install know-dnsutils
-{: .block-danger }
+{: .block-tip }
