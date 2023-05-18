@@ -8,22 +8,6 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
                 window.open('http://www.facebook.com/sharer/sharer.php?s=100&p[url]='+encodeURIComponent(location.href));
             }
         },
-        'twitter': {
-            'label': 'Twitter',
-            'icon': 'fa fa-twitter',
-            'onClick': function(e) {
-                e.preventDefault();
-                window.open('http://twitter.com/'+encodeURIComponent(document.title+' '+location.href));
-            }
-        },
-        'github': {
-            'label': 'Github',
-            'icon': 'fa fa-github',
-            'onClick': function(e) {
-                e.preventDefault();
-                window.open('https://github.com/');
-            }
-        },
         'telegram': {
             'label': 'Telegram',
             'icon': 'fa fa-telegram',
